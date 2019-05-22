@@ -1,0 +1,4 @@
+rofi.modi: drun,ssh
+rofi.terminal: urxvt
+
+rofi.theme: ~/.config/rofi/themes/fullscreen.rasi
